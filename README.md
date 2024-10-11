@@ -1,3 +1,5 @@
+**Disclaimer: This project is for educational purposes only. The techniques demonstrated here should not be used on any devices or systems that you do not own or have explicit permission to access. Unauthorized access, hacking, or attempts to bypass security systems is illegal and unethical. Always respect privacy and the law.**
+
 # PIN Cracking Simulations
 
 This repository contains two Python scripts (`my_pin.py` and `pin_finder.py`) that simulate cracking a 6-digit PIN under different conditions. 
@@ -49,5 +51,4 @@ bash
 python pin_finder.py
 
 
-
-**Disclaimer: This project is for educational purposes only. The techniques demonstrated here should not be used on any devices or systems that you do not own or have explicit permission to access. Unauthorized access, hacking, or attempts to bypass security systems is illegal and unethical. Always respect privacy and the law.**
+##**Disclaimer: This project is for educational purposes only. The techniques demonstrated here should not be used on any devices or systems that you do not own or have explicit permission to access. Unauthorized access, hacking, or attempts to bypass security systems is illegal and unethical. Always respect privacy and the law.**
