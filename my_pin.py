@@ -1,16 +1,14 @@
 import random
 
-# Function to generate a random 6-digit PIN
 def generate_pin():
     return str(random.randint(0, 999999)).zfill(6)
 
-# Function to simulate the PIN cracking process
 def crack_pin(target_pin):
     attempts = 0
     max_attempts = 10
     found_pin = False
 
-    print(f"Target PIN is: {target_pin}")  # For demonstration purposes
+    print(f"Target PIN is: {target_pin}")  
 
     while attempts < max_attempts and not found_pin:
         # Generate a random guess
@@ -30,5 +28,5 @@ def crack_pin(target_pin):
 
 # Main execution
 if __name__ == "__main__":
-    target_pin = generate_pin()  # Generate the target PIN
-    crack_pin(target_pin)  # Start the cracking simulation
+    target_pin = generate_pin()  
+    crack_pin(target_pin)  
