@@ -47,3 +47,7 @@ To run the brute-force simulation:
 
 bash
 python pin_finder.py
+
+
+
+**Disclaimer: This project is for educational purposes only. The techniques demonstrated here should not be used on any devices or systems that you do not own or have explicit permission to access. Unauthorized access, hacking, or attempts to bypass security systems is illegal and unethical. Always respect privacy and the law.**
