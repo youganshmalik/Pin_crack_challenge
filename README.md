@@ -28,13 +28,13 @@ This project is for **educational purposes** only and demonstrates the basic log
     - Simulates the process of guessing a 6-digit PIN within 10 attempts.
     - Randomly generates a 6-digit PIN and attempts to guess it within a maximum of 10 tries.
     
-    ![my_pin.py output](C:\Users\HP\OneDrive\Drive~diSk #D`\OneDrive\Desktop\pin.png)
+    ![my_pin.py output](C:\Users\HP\OneDrive\Drive~diSk #D`\OneDrive\Desktop\my.png)
 
 2. **pin_finder.py**: 
     - Simulates an exhaustive brute-force attempt to find the correct PIN.
     - Randomly generates a 6-digit PIN and guesses it from 1 million possible combinations.
     
-    ![pin_finder.py output](path_to_image/pin_finder_output.png)
+    ![pin_finder.py output](C:\Users\HP\OneDrive\Drive~diSk #D`\OneDrive\Desktop\pin.png)
 
 ## How to Run
 
