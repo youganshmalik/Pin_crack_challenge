@@ -27,10 +27,14 @@ This project is for **educational purposes** only and demonstrates the basic log
 1. **my_pin.py**: 
     - Simulates the process of guessing a 6-digit PIN within 10 attempts.
     - Randomly generates a 6-digit PIN and attempts to guess it within a maximum of 10 tries.
+    
+    ![my_pin.py output](C:\Users\HP\OneDrive\Drive~diSk #D`\OneDrive\Desktop\pin.png)
 
 2. **pin_finder.py**: 
     - Simulates an exhaustive brute-force attempt to find the correct PIN.
     - Randomly generates a 6-digit PIN and guesses it from 1 million possible combinations.
+    
+    ![pin_finder.py output](path_to_image/pin_finder_output.png)
 
 ## How to Run
 
@@ -40,12 +44,15 @@ To use these scripts, first clone the repository to your local machine using the
 ```bash
 git clone https://github.com/youganshmalik/pin-cracker-challenge.git
 
+### 2. Run the Scripts
+
 To run the 10-attempts simulation:
 
-bash
+```bashCopy code
 python my_pin.py
 
 To run the brute-force simulation:
 
-bash
+```bash
+
 python pin_finder.py
